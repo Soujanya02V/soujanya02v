@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soujanya</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">"Full Stack Explorer | JavaScript, React, Node & beyond."</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sand-psi-23.vercel.app/](https://my-portfolio-sand-psi-23.vercel.app/)
 
